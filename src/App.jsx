@@ -1,4 +1,4 @@
-import Calculator from './calculator'
+import Index from './Index'
 import './App.css'
 
 function App() {
@@ -6,8 +6,8 @@ function App() {
 
   return (
     < >
-
-      <Calculator/>
+    <Index/>
+     
     </>
   )
 }

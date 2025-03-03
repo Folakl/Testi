@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const Calculator = () => {
+const Index = () => {
 
  const [input, setInput] = useState("");
    let prev = input
@@ -60,4 +60,4 @@ const Calculator = () => {
   )
 }
 
-export default Calculator
+export default Index
