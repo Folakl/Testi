@@ -22,7 +22,7 @@ const Index = () => {
  }
 
   return (
-    <div className='bg-[green] h-[500px] w-[500px] rounded-md  justify-self-center p-10 text-white'>
+    <div className='bg-[green] h-[500px] w-[400px] m-5 rounded-md  justify-self-center p-10 text-white'>
       
           <div>
           <input
